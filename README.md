@@ -1,5 +1,5 @@
 # Notificy
-![[Logo](/assets/logo.png)][example-url]
+[![Logo](/assets/logo.png)][example-url]
 
 [**Notificy**][example-url] - beautiful, lightweight and fully customisable notifications to your website.
 
