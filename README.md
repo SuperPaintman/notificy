@@ -1,7 +1,7 @@
 # Notificy
-![Logo](/assets/logo.png)
+![[Logo](/assets/logo.png)][example-url]
 
-**Notificy** - beautiful, lightweight and fully customisable notifications to your website.
+[**Notificy**][example-url] - beautiful, lightweight and fully customisable notifications to your website.
 
 --------------------------------------------------------------------------------
 
@@ -698,3 +698,5 @@ JavaScriptCSSHTML
 ## Changelog
 ### v 1.0
 * Initial version
+
+[example-url]: http://github.flatdev.ru/project/notificy/
