@@ -154,7 +154,7 @@ gulp.task 'coffee', (next)->
         .pipe rename {
             suffix: paths.client.coffee.suffix
         }
-        # Сохринение Source Map
+        # Сохранение Source Map
         .pipe if $isProduction then gutil.noop() else sourcemaps.write("./")
         # Сохранение
         .pipe gulp.dest paths.client.coffee.to
